@@ -16,6 +16,8 @@ import org.apache.poi.ss.usermodel.Row;
 public class ExcelReading {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Hello world");
 		// TODO Auto-generated method stub
 		try {
 			System.out.println("Hello");
